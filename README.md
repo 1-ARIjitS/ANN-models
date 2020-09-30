@@ -8,4 +8,4 @@ using tesorflow and keras
 using softmax amd relu activations
 using optimizer adam
 
-[]!(screenshot/Screenshot%20(286))
+![](screenshots/Screenshot%20(286))
